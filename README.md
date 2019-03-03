@@ -1,4 +1,4 @@
-Verilmiş faylı yükləyin (link). Fayldakı informasiya futbolçular haqqındadır.
+Buradakı data.csv faylını yükləyin (https://github.com/azmiu-bootcamp/fourth/raw/master/data.csv). Fayldakı informasiya futbolçular haqqındadır.
 Bu faylda sütunların başlıqları aşağdakı mənaları daşıyır:
 
  - Name - Adı
