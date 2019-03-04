@@ -1,3 +1,5 @@
+https://classroom.github.com/a/kuchk6L7 -- buradan istifadə edin.
+
 Buradakı data.csv faylını yükləyin (https://github.com/azmiu-bootcamp/fourth/raw/master/data.csv). Fayldakı informasiya futbolçular haqqındadır.
 Bu faylda sütunların başlıqları aşağdakı mənaları daşıyır:
 
