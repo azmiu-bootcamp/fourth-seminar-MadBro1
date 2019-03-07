@@ -1,0 +1,9 @@
+import csv
+with open('data.csv',encoding="utf8") as f:
+     reader = csv.reader(f)
+     next(reader)
+     G_players=[]
+     for row in reader:
+         if row[4] == "Germany" and int(row[3])<30 and row[5] == "FC Bayern München":
+             G_players.append(row[2])
+print("Germany əsilli, yaşı 30 - dan aşağı olan və FC Bayern Munchendə oynayan futbolçuların sayı: "+str(len(G_players)))
